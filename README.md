@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on improving my Web Development Skills
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Full Stack Projects
 - 🤔 I’m looking for help with Open Source Contributions
