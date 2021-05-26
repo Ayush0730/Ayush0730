@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/ayush0730/
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I like to do digital painting sometimes (But not very good at it)
