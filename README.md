@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on improving my Web Development Skills
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Full Stack Projects
-- 🤔 I’m looking for help with Open Source Contributions
+- 🤔 I’m looking for help with DSA
 - 💬 Ask me about Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/ayush0730/
 - 😄 Pronouns: He/Him/His
