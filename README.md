@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush0730&show_icons=true&theme=highcontrast&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush0730&layout=compact)
+ 
+[![Ayush's github activity graph](https://ayush-activity-graph.herokuapp.com/graph?username=Ayush0730&theme=react-dark)](https://github.com/Ayush0730/)
+ 
  </h1>
