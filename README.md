@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/ayush0730/
 - 😄 Pronouns: He/Him/His
-- 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush0730)
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush0730&show_icons=true&theme=highcontrast&count_private=true)
