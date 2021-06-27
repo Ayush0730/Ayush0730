@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Full Stack Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about Javascript
-- 📫 How to reach me: https://www.linkedin.com/in/ayush0730/
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush0730/)
 - 😄 Pronouns: He/Him/His
 
 <h1 align="center">
